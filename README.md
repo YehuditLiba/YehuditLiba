@@ -55,6 +55,7 @@ join my repositories, contribute, and let's engage in discussions and innovation
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YehuditLiba&layout=compact&title_color=ff66b2&text_color=66b2ff&icon_color=ff66b2&border_color=66b2ff&bg_color=000000&hide_border=false&theme=default&cache_seconds=21600&locale=en&border_radius=4.0)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![Yehudit GitHub stats](https://github-readme-stats.vercel.app/api?username=YehuditLiba&theme=dark&show_icons=true)
+
 
 
