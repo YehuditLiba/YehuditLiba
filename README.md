@@ -1,6 +1,6 @@
- ## 👋 Hi, I'm Yehudit 
+ # 👋 Hi, I'm Yehudit 
 
-#### I'm passionate about full-stack development and building advanced technological solutions.
+### I'm passionate about full-stack development and building advanced technological solutions.
 Currently, I'm learning and immersing myself in the field of Full Stack development
 Access to various technologies with a strong desire to learn and specialize further.
 
@@ -10,7 +10,7 @@ Access to various technologies with a strong desire to learn and specialize furt
 
 ---
 
-#### Join My Coding Journey
+### Join My Coding Journey
 
 
 Passionate about full-stack development,
@@ -26,7 +26,8 @@ join my repositories, contribute, and let's engage in discussions and innovation
 
 ---
 
- #### A taste of the tools and technologies I worked with
+ ### A taste of the tools and technologies
+ ---
 
  
 [<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50"/>](https://docs.microsoft.com/en-us/dotnet/)
@@ -51,6 +52,7 @@ join my repositories, contribute, and let's engage in discussions and innovation
 [<img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="50"/>](https://dotnet.microsoft.com/)
 
 ### Github Stats
+
 
 ![YehuditLiba's GitHub stats](https://github-readme-stats.vercel.app/api?username=YehuditLiba&show_icons=true&title_color=ff66b2&text_color=66b2ff&icon_color=ff66b2&border_color=66b2ff&bg_color=000000&hide_border=false&theme=default&cache_seconds=21600&locale=en&border_radius=4.0&include_all_commits=true&count_private=true)
 
