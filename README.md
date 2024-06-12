@@ -31,7 +31,7 @@ join my repositories, contribute, and let's engage in discussions and innovation
  
 [<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50"/>](https://docs.microsoft.com/en-us/dotnet/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="50"/>](https://docs.microsoft.com/en-us/cpp/)
-[[<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" width="50"/>]](https://docs.microsoft.com/en-us/cpp/c-language/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" width="50"/>](https://docs.microsoft.com/en-us/cpp/c-language/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50"/>](https://docs.microsoft.com/en-us/azure/python/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="50"/>](https://docs.microsoft.com/en-us/azure/notebooks/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="50"/>](https://docs.microsoft.com/en-us/sql/)
@@ -50,12 +50,14 @@ join my repositories, contribute, and let's engage in discussions and innovation
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="50"/>](https://code.visualstudio.com/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="50"/>](https://dotnet.microsoft.com/)
 
-##
+### Github Stats
+
 ![YehuditLiba's GitHub stats](https://github-readme-stats.vercel.app/api?username=YehuditLiba&show_icons=true&title_color=ff66b2&text_color=66b2ff&icon_color=ff66b2&border_color=66b2ff&bg_color=000000&hide_border=false&theme=default&cache_seconds=21600&locale=en&border_radius=4.0&include_all_commits=true&count_private=true)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YehuditLiba&layout=compact&title_color=ff66b2&text_color=66b2ff&icon_color=ff66b2&border_color=66b2ff&bg_color=000000&hide_border=false&theme=default&cache_seconds=21600&locale=en&border_radius=4.0)
 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YehuditLiba&bg_color=DEG,blue,pink&title_color=FFFFFF)](https://github.com/anmol098/waka-readme-stats)
+
 
 
 
