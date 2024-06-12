@@ -49,3 +49,4 @@ join my repositories, contribute, and let's engage in discussions and innovation
 [<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" width="50"/>](https://visualstudio.microsoft.com/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="50"/>](https://code.visualstudio.com/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="50"/>](https://dotnet.microsoft.com/)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&title_color=ff66b2&text_color=66b2ff&icon_color=ff66b2&border_color=66b2ff&bg_color=000000&hide_border=false&theme=default&cache_seconds=21600&locale=en&border_radius=4.0)
