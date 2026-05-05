@@ -19,7 +19,6 @@ If you're enthusiastic about coding,
 join my repositories, contribute, and let's engage in discussions and innovation together.
 -Feel free to reach out with any questions or ideas!
 <div style="float: right; width: 150px;">
-  <img src="https://github.com/YehuditLiba/YehuditLiba/blob/main/Y.gif" alt="Computer GIF" width="150">
 </div>
 
 📤Get me here: [Y4144246@gmail.com]()
